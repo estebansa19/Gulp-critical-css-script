@@ -7,4 +7,5 @@ To run the script, first you need to create a package.json: `npm init`.
 
 Later, install gulp and all his DevDependencies: `npm install -g gulp` and `npm install --save-dev gulp`.
 
-And type `gulp name_of_task` that's all!
+And type `gulp name_of_task`.
+That's all!
